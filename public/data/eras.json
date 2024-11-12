@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "eras": "Antiquités",
+    "imgEras": "../picts/eras/antiquite.png"
+  },
+  {
+    "id": 2,
+    "eras": "Moyens Age",
+    "imgEras": "../picts/eras/middleAges.png"
+  },
+  {
+    "id": 3,
+    "eras": "Japon Féodal",
+    "imgEras": "../picts/eras/japonFeodal.png"
+  },
+  {
+    "id": 4,
+    "eras": "Seconde Guerre Mondiale",
+    "imgEras": "../picts/eras/secondeGuerreMondiale.png"
+  }
+]

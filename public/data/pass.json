@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "PASS HOMO SAPIENS",
+    "imgPass": "../picts/pass/homoSapiens.png",
+    "price": "4.99€/mois",
+    "firstBenefits": "Sans engagement",
+    "secondBenefits": "Résiliable à tout moment"
+  },
+  {
+    "id": 2,
+    "title": "PASS SPARTIATES",
+    "imgPass": "../picts/pass/spartiates.png",
+    "price": "49.99€/an",
+    "firstBenefits": "Soit 2 mois offerts",
+    "secondBenefits": "Plus de 10 € d’économie"
+  }
+]

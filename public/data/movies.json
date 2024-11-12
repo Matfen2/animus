@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "title": "../picts/movies/gladiator/gladiator.png",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Ridley Scott",
+    "writer": "David Scarpa",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Péplum"
+    ],
+    "pitch": "Le général romain Maximus est le plus fidèle soutien de l'empereur Marc Aurèle, qu'il a conduit de victoire en victoire avec une bravoure et un dévouement exemplaires. Jaloux du prestige de Maximus, et plus encore de l'amour que lui voue l'empereur, le fils de Marc Aurèle, Commode, s'arroge brutalement le pouvoir, puis ordonne l'arrestation du général et son exécution. Maximus échappe à ses assassins mais ne peut empêcher le massacre de sa famille. Capturé par un marchand d'esclaves, il devient gladiateur et prépare sa vengeance.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Russell Crowe",
+        "imgActor": "../picts/movies/gladiator/russellCrowe.png",
+        "character": "Maximus"
+      },
+      {
+        "id": 2,
+        "actor": "Joaquin Phoenix",
+        "imgActor": "../picts/movies/gladiator/joaquinPhoenix.png",
+        "character": "Commode"
+      },
+      {
+        "id": 3,
+        "actor": "Connie Nielsen",
+        "imgActor": "../picts/movies/gladiator/connieNielsen.png",
+        "character": "Lucilla"
+      },
+      {
+        "id": 4,
+        "actor": "Richard Harris",
+        "imgActor": "../picts/movies/gladiator/richardHarris.png",
+        "character": "Marc Aurèle"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "sparowtony",
+          "rating": "5",
+          "dateNotice": "20 mai 2015",
+          "notice": "Gladiator est une claque monumentale, le meilleur péplum qui existe à ce jour. Un film à mes yeux inégalé, qui m'a fait aimer le cinéma. 2h35 qui se suivent sans soucis, aucune longueur ne pointe son nez. Russell Crowe est incroyable dans le rôle de Maximus (tout simplement le rôle de sa vie). Une véritable bête de charisme qui crève l'écran, avec un Joaquin Phoenix qui est loin d'être en reste (et c'est un sacré exploit). La mise en scène est soignée en tout points (photographie, plans, découpage des combats), la musique de Hans Zimmer est somptueuse (et c'est peu dire): le compositeur nous livre tout simplement sa meilleure bande-originale, grandiose mélange entre l'épique et le lyrisme. Tout comme le film, elle est inoubliable. Le scénario est très bien écrit, avec des thèmes intéressants qui font de Gladiator un blockbuster intelligent, au delà d'être une grande histoire de vengeance et une délicieuse tragédie aux airs grecs. Le chef d'oeuvre du péplum, l'apogée de Ridley Scott ! Un film à voir et à revoir !!! Immanquable ! Mon film préféré !!!!!"
+        },
+        {
+          "id": 2,
+          "name": "The Cinephile World",
+          "rating": "5",
+          "dateNotice": "13 février 2013",
+          "notice": "Ce péplum est sans aucun doute, le meilleur que j'ai vu, il y a de l'actions, les scènes de batailles sont biens faites, et la musique de Hans Zimmer qui est l'un de mes compositeurs préférés est magnifique. Ce film est de loin le meilleur film de Ridley Scott, Russell Crowe est parfait dans son rôle de Maximus, je dirais même que c'est son plus beau rôle. Un Chef d'Oeuvre, et un de mes films préférés, 5/5."
+        },
+        {
+          "id": 3,
+          "name": "Loskof",
+          "rating": "5",
+          "dateNotice": "17 mai 2010",
+          "notice": "Il est impossible de décrire toute la richesse de ce film dans une critique. Ce film est tout simplement le meilleur film de tous les temps selon moi. Il faudra bien plus d'un visionnage pour que le film dévoile toutes ses richesses et sa profondeur. La meilleure description serait de dire que tout est dans Gladiator. Russell Crowe tient ici le rôle de sa vie, il est né pour être Maximus. Un film inégalable!"
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Nicolas N.",
+          "rating": "4.5",
+          "dateNotice": "12 novembre 2024",
+          "notice": "Gladiator de Ridley Scott est une fresque épique qui marie à la perfection l’émotion et la brutalité d’une époque sans pitié. Russell Crowe incarne avec puissance Maximus, un général déchu qui se bat pour venger sa famille et restaurer l’honneur de Rome. Les scènes de combat, magistralement chorégraphiées, plongent le spectateur dans une arène où le sang et la poussière deviennent presque palpables. Scott parvient à capturer l’essence de la Rome antique, sublimée par une bande-son envoûtante signée Hans Zimmer. Ce film reste une œuvre intemporelle, où la quête de justice transcende la violence, offrant un spectacle visuel et émotionnel sans égal."
+        },
+        {
+          "id": 2,
+          "name": "Nicolas Métrich",
+          "rating": "5",
+          "dateNotice": "11 novembre 2024",
+          "notice": "Un chef d'œuvre du film d'actions dramatique (Mélange de film d'actions et de film dramatique), qui se passe à l'époque de la Rome antique, sur les gladiateurs. Des décors grandioses de l'Antiquité. Le meilleur film avec Russell Crowe et un des meilleurs films de Ridley Scott. Un bon scénario, une bonne histoire, avec beaucoup d'émotions intenses, beaucoup de tensions psychologiques, beaucoup de suspens, et quelques combats spectaculaires et impressionnants, comme scènes d'actions."
+        },
+        {
+          "id": 3,
+          "name": "DavY Croquette",
+          "rating": "3",
+          "dateNotice": "19 novembre 2024",
+          "notice": "Le début du film était un peu lent. Heureusement, le rythme s'est accéléré par la suite. L'intrigue est devenue captivante et les personnages attachants. Au final, j'ai passé un excellent moment."
+        }
+      ]
+    }
+  }
+]
