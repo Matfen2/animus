@@ -85,5 +85,701 @@
         }
       ]
     }
+  },
+  {
+    "id": 2,
+    "title": "../picts/movies/braveheart/braveheart.webp",
+    "wallpaper": "../picts/movies/braveheart/braveheartWallpaper.webp",
+    "creator": "Mel Gibson",
+    "writer": "Randall Wallace",
+    "genres": [
+      "Biopic",
+      "Drame",
+      "Moyen-Age"
+    ],
+    "pitch": "Evocation de la vie tumultueuse de William Wallace, héros et symbole de l'indépendance écossaise, qui à la fin du XIIIe siècle affronta les troupes du roi d'Angleterre Edward I qui venaient d'envahir son pays.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/braveheart/melGibson.webp",
+        "character": "William Wallace"
+      },
+      {
+        "id": 2,
+        "actor": "Sophie Marceau",
+        "imgActor": "../picts/movies/braveheart/sophieMarceau.webp",
+        "character": "Princesse Isabelle"
+      },
+      {
+        "id": 3,
+        "actor": "Catherine McCormack",
+        "imgActor": "../picts/movies/braveheart/catherineMcCormack.webp",
+        "character": "Murron"
+      },
+      {
+        "id": 4,
+        "actor": "Patrick McGoohan",
+        "imgActor": "../picts/movies/braveheart/patrickMcGoohan.webp",
+        "character": "Roi Edward"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "Cynévore",
+          "rating": "4.5",
+          "dateNotice": "6 février 2018",
+          "notice": "En 3 heures, Mel Gibson nous transporte littéralement dans la vielle Ecosse. Passé le manichéisme, ces 180 minutes sont un délice visuel et narratif. Le spectateur est marqué par la richesse des enjeux posés, des questions soulevées, des personnages et (bien sûr) des scènes de bataille. Pas grand chose à redire. On est surpris, charmé et embarqué dans l'aventure tragique de William Wallace. Alors, pourquoi n'ai-je pas mis 5 étoiles ? Et bien, je n'ai pas complétement accepté la dualité de l'histoire."
+        },
+        {
+          "id": 2,
+          "name": "JokerDreizen",
+          "rating": "4",
+          "dateNotice": "19 janvier 2011",
+          "notice": "Braveheart, ou comment un homme poussé à bout a éveillé ses frères écossais de la domination anglaise, et a ébranlé son pays pour un seul mot : Liberté. Les acteurs font leur job, avec à leur tête un Mel Gibson qui nous offre un William Wallace mémorable. Le film ne bâcle rien, et prend bien son temps pour installer les émotions et donner de l'épaisseur à ses multiples personnages, entre plusieurs scènes d'anthologie qui resteront dans les mémoires. Quelques fois un petit peu longuet, mais poignant dans son ensemble, Braveheart est simplement épique."
+        },
+        {
+          "id": 3,
+          "name": "sparowtony",
+          "rating": "5",
+          "dateNotice": "20 juillet 2012",
+          "notice": "Un film somptueux. La réalisation est très bonne, avec des scènes de batailles tout simplement spectaculaires et bien filmés. Mel Gibson interprète avec perfection William Wallace et la bo de James Horner est excellente. La fin est magnifique. Un film épique à voir absolument !"
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Florent A",
+          "rating": "3",
+          "dateNotice": "9 novembre 2024",
+          "notice": "Film anthologique, peplum avec un héros courageux, qui combat comme un lion et séduit les femmes. Bref un bon gros film pas très fin, avec des passages quand même palpitants mais qui sent trop les années 90, le machisme et autres."
+        },
+        {
+          "id": 2,
+          "name": "Raphaël Rayé",
+          "rating": "3.5",
+          "dateNotice": "26 septembre 2024",
+          "notice": "Peut être que l’aspect historique a en partie été mise de côté, ce qui nuis un peu à son charme, mais Mel Gibson reste très bon dans son rôle, et l’enjeu du film peut être accrocheur pour beaucoup de monde, ce film de se lâché pas si facilement."
+        },
+        {
+          "id": 3,
+          "name": "Benjamin MEISSE",
+          "rating": "4.5",
+          "dateNotice": "18 août 2024",
+          "notice": "Un film magnifique, même s'il n'est pas tout à fait fidèle à la réalité. Les acteurs incarnent parfaitement leurs personnages. Je le recommande vivement si vous êtes fan de films d'action et historiques."
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "../picts/movies/troie/troie.webp",
+    "wallpaper": "../picts/movies/troie/troieWallpaper.webp",
+    "creator": "Wolfgang Petersen",
+    "writer": "David Benioff",
+    "genres": [
+      "Action",
+      "Aventure",
+      "Péplum"
+    ],
+    "pitch": "Dans la Grèce antique, l'enlèvement d'Hélène, reine de Sparte, par Paris, prince de Troie, est une insulte que le roi Ménélas ne peut supporter. L'honneur familial étant en jeu, Agamemnon, frère de Ménélas et puissant roi de Mycènes, réunit toutes les armées grecques afin de faire sortir Hélène de Troie. L'issue de la guerre de Troie dépendra notamment d'un homme, Achille. Arrogant, rebelle, et réputé invicible, celui-ci n'a d'attache pour rien ni personne si ce n'est sa propre gloire.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Brad Pitt",
+        "imgActor": "../picts/movies/troie/bradPitt.webp",
+        "character": "Achille"
+      },
+      {
+        "id": 2,
+        "actor": "Eric Bana",
+        "imgActor": "../picts/movies/troie/ericBana.webp",
+        "character": "Hector"
+      },
+      {
+        "id": 3,
+        "actor": "Orlando Bloom",
+        "imgActor": "../picts/movies/troie/orlandoBloom.webp",
+        "character": "Paris"
+      },
+      {
+        "id": 4,
+        "actor": "Rose Byrne",
+        "imgActor": "../picts/movies/troie/roseByrne.webp",
+        "character": "Briseis"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "4",
+          "dateNotice": "25 juin 2013",
+          "notice": "C'est un bon péplum de la nouvelle génération, les combats sont très bien tournés, et on redécouvre l'histoire d'Achille, d'Hélène et de tous les autres avec plaisir. Le destin tragique, épique, et mythique de cette ville (Troie) qui a su retenir la plus grande armée de ce siècle, mais qui par folie des grandeurs finit par accepter un cadeau funeste : le fameux cheval de troie. La mise en scène est bien orchestrée ainsi que son casting qui est absolument prodigieux."
+        },
+        {
+          "id": 2,
+          "name": "elbandito",
+          "rating": "5",
+          "dateNotice": "29 septembre 2006",
+          "notice": "S'il n'atteint jamais la puissance d'un Gladiator ou d'un Alexandre, TROIE demeure un divertissement d'excellente qualité qui se suit de bout en bout avec le plus vif intérêt. La reconstitution de la cité est parfaite, le scénario tient la route, les acteurs sont tous bons dans leurs rôles... Mention spéciale à Eric Bana pour son interprètation du prince Hector. Du grand spectacle à ne pas manquer !"
+        },
+        {
+          "id": 3,
+          "name": "Romain C.",
+          "rating": "5",
+          "dateNotice": "29 juillet 2017",
+          "notice": "L'histoire de Paris, d'Achille et de Troie en film qui est fidèle à l'histoire. Il est très long mais ça passe très vite grâce au scénario, aux inattendu et aux acteurs tels que Brad Pitt, Éric bana ou orlando bloom. Le meilleur péplum."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "arthur. lbrs",
+          "rating": "5",
+          "dateNotice": "8 octobre 2024",
+          "notice": "Je met 5 pour remonter la moyenne G. Super film, très beau. Oui, ce n'est pas la Grèce antique mais bon ça reste un mythe, de base c'est une histoire racontée donc elle a le droit d'être modifiée dans le temps."
+        },
+        {
+          "id": 2,
+          "name": "davidgainsbourg",
+          "rating": "5",
+          "dateNotice": "6 octobre 2024",
+          "notice": "Un péplum magnifique, une perfection cinématographique. Ça dure plus de 2h30 et on ne s’ennuie pas une seconde…."
+        },
+        {
+          "id": 3,
+          "name": "Fabien Sorrant",
+          "rating": "4",
+          "dateNotice": "28 août 2024",
+          "notice": "Un très bon péplum avec Brad Pitt qui incarne Achille , le héros légendaire de la guerre de Troie."
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "../picts/movies/thePatriot/",
+    "wallpaper": "../picts/movies/gladiator/gladiatorWallpaper.jpg",
+    "creator": "Roland Emmerich",
+    "writer": "Robert Rodat",
+    "genres": [
+      "Action",
+      "Drame",
+      "Révolution Américaine"
+    ],
+    "pitch": "Caroline du Sud, 1776. Le conflit entre les independantistes et les Anglais semble inevitable. Benjamin Martin sait trop bien ce qu'est une guerre et il n'en veut pas. Cet ancien heros des combats contre les Francais et les Indiens n'ignore rien de la violence des affrontements armes... Aujourd'hui veuf, il eleve seul ses sept enfants dans sa plantation. Son fils aine, Gabriel, s'engage contre l'avis de son pere. Lorsque les troupes anglaises, commandees par le colonel Tavington, arrivent aux portes de sa propriete, il est trop tard.",
+    "roles": [
+      {
+        "id": 1,
+        "actor": "Mel Gibson",
+        "imgActor": "../picts/movies/thePatriot/melGibson.webp",
+        "character": "Benjamin Martin"
+      },
+      {
+        "id": 2,
+        "actor": "Heath Ledger",
+        "imgActor": "../picts/movies/thePatriot/heathLedger.webp",
+        "character": "Gabriel Martin"
+      },
+      {
+        "id": 3,
+        "actor": "Tchéry Karyo",
+        "imgActor": "../picts/movies/thePatriot/tchekyKaryo.webp",
+        "character": "Jean Villeneuve"
+      },
+      {
+        "id": 4,
+        "actor": "Joely Richardson",
+        "imgActor": "../picts/movies/thePatriot/joelyRichardson.webp",
+        "character": "Charlotte Putnam Selton / Charlotte Martin"
+      }
+    ],
+    "comments": {
+      "pertinent": [
+        {
+          "id": 1,
+          "name": "tony-76",
+          "rating": "5",
+          "dateNotice": "24 juin 2013",
+          "notice": "Là on peut parler du mot chef d'oeuvre !! C'est épique, fascinant, incontournable ... On peut employer tous les adjectifs positifs de cette oeuvre signé Roland Emmerich. Il dénonce le conflit entre les Anglais et les indépendantistes et l'histoire s'inspirait des vies de Francis Marion. Un gros casting avec en tête d'affiche Mel Gibson qui a fait une interprétation incroyable sans oublier Heath Ledger qui est lui aussi excellent !! L'un des meilleurs films de Mel Gibson, et Heath Ledger repose en paix. Pour finir, c'est un très grand film historique qu'il ne faut pas rater."
+        },
+        {
+          "id": 2,
+          "name": "TotoJp59",
+          "rating": "3.5",
+          "dateNotice": "4 septembre 2014",
+          "notice": "En 2000, Roland Emmerich s'attaque pour la première fois à un autre genre que la science-fiction : la fresque Historique ! Ce choix est plutôt étonnant pour l'allemand, d'autant plus qu'il s'intéresse à un grand événement de l'Histoire des Etats-Unis, la première guerre de sécession. Exit les touches d'humour, le long-métrage se révélera très sérieux tout en ayant un grand sens du spectacle avec sa reconstitution exemplaire et ses scènes d'action efficaces. On est donc dans du Emmerich tout craché avec un scénario relativement simple (quelques longueurs cependant), prenant et sans nuance. Sans oublier les images patriotiques pour les américains. Le réalisateur s'essaye a quelques effets de style inédits dans sa mise en scène mais il est allé dans l'excès (ralentis). Quoi qu'il en soit, The Patriot reste l'un des meilleurs Emmerich et porte à l'écran le convaincant Gibson. Les deux artistes étaient au sommet à l'époque..."
+        },
+        {
+          "id": 3,
+          "name": "Bearnais64",
+          "rating": "4",
+          "dateNotice": "6 juin 2010",
+          "notice": "Ce film est vraiment bien. Seul dommage à mon sens, Mel Gibson porte le film à lui tout seul même si Heath Ledger et Tchéky Karyo sont plus que bon dans ce film."
+        }
+      ],
+      "recent": [
+        {
+          "id": 1,
+          "name": "Ti Nou",
+          "rating": "2",
+          "dateNotice": "13 octobre 2024",
+          "notice": "Roland Emmerich a fait part toute sa filmographie de la fascination qu’exerce pour lui les États-Unis. Il est donc logique de le voir s’attaquer à un récit historique sur la création de l’État fédéral américain. On pourrait excuser le manichéisme et une vision de l’histoire simpliste si la fresque était spectaculaire. Seulement, si Emmerich maîtrise la destruction massive dans ses films catastrophes, il a plus de mal à donner de l’ampleur et du souffle épique à ses batailles."
+        },
+        {
+          "id": 2,
+          "name": "Pierre Chambon",
+          "rating": "2",
+          "dateNotice": "30 mai 2024",
+          "notice": "de la bonne grosse guerre, des bons gros sentiments - mon cœur d'enfant n'a pas pu résister à la tentation, mais je suis déçu - du cinéma à grand spectacle qui n'apporte rien."
+        },
+        {
+          "id": 3,
+          "name": "SB88",
+          "rating": "4",
+          "dateNotice": "12 mai 2024",
+          "notice": "Bon film pour dénoncer la cruauté et l'horreur de la guerre. Toutes ces vies fauchées. On a de l'action, un humour léger, un méchant féroce, la belle histoire d'amour, le courage, le noir qui se bat pour sa liberté puis son pays, et une pointe d'humour. Pas de surprise mais tout s'enchaîne parfaitement avec un max d'ingrédients...les Anglais, les Français !"
+        }
+      ]
+    }
   }
 ]
